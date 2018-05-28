@@ -1,0 +1,25 @@
+{
+  "name": "speconnect",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "jest": {
+    "testEnvironment": "node"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "lodash": "^4.17.10"
+  },
+  "devDependencies": {
+    "connect": "^3.6.6",
+    "express": "^4.16.3",
+    "jest": "^23.0.1",
+    "koa": "^2.5.1"
+  }
+}
